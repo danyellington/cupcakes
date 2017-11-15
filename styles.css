@@ -1,0 +1,35 @@
+.flashy {
+  color: red;
+  font-style: italic;
+  font-size: 75px;
+  text-align: center;
+}
+
+.best {
+  color: pink;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: fantasy;
+}
+
+img {
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+  list-style-type: none;
+  font-size: 30px;
+}
+
+body {
+  background: url(img/melt-chocolate.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: gray;
+}
